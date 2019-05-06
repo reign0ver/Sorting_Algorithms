@@ -16,7 +16,7 @@ public class Sorting {
             array[i] = (int) (Math.random() * n) + 1;
             //System.out.print(array[i] + " - ");
         }
-
+        //llamado de metodos xd
         Insertionsort i = new Insertionsort();
         Mergesort m = new Mergesort();
         Quicksort q = new Quicksort();
