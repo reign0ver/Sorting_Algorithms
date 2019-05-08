@@ -9,7 +9,7 @@ import code.*;
 public class Sorting {
 
     public static void main(String[] args) {
-        int n = 1000000;
+        int n = 10000000;
         int[] array = new int[n];
 
         for (int i = 0; i < n; i++) {
@@ -21,10 +21,15 @@ public class Sorting {
         Mergesort m = new Mergesort();
         Quicksort q = new Quicksort();
         Radixsort r = new Radixsort();
-
-        i.sort(array);
-        System.out.println("Sorted insertion array \n");
-        i.printArray(array);
+        Quicksort_Mejorado qm = new Quicksort_Mejorado();
+        Quicksortxd qxd = new Quicksortxd();
+        
+        //m.sort(array, 0, 999);
+        
+        //q.sort(array, 0, 9999999);
+        qm.sort(array, 0, 999999);        
+        //qxd.quicksortMedianaDeTres(array, 0, 99999999);
+        //i.printArray(array);
     }
 
 }

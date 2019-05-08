@@ -3,11 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/koda/NetBeansProjects/Sorting/src/code/Mergesort.java</file>
+            <file>file:/home/koda/NetBeansProjects/Sorting/src/code/Quicksort.java</file>
             <file>file:/home/koda/NetBeansProjects/Sorting/src/pruebas/Sorting.java</file>
-            <file>file:/home/koda/NetBeansProjects/Sorting/src/code/Radixsort.java</file>
-            <file>file:/home/koda/NetBeansProjects/Sorting/src/code/Shellsort.java</file>
-            <file>file:/home/koda/NetBeansProjects/Sorting/src/code/Insertionsort.java</file>
+            <file>file:/home/koda/NetBeansProjects/Sorting/src/code/Quicksortxd.java</file>
+            <file>file:/home/koda/NetBeansProjects/Sorting/src/code/Quicksort_Mejorado.java</file>
         </group>
     </open-files>
 </project-private>
